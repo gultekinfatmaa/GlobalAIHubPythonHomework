@@ -1,2 +1,2 @@
 # GlobalAIHubPythonHomework
-This repo is about Global AI Hub Python Homework
+This repo is about the homework of the Introduction to Python Programming Course
